@@ -1,0 +1,6 @@
+[
+  { "type": "Plastic", "quantity": 120, "price": 10 },
+  { "type": "Metal", "quantity": 85, "price": 20 },
+  { "type": "Glass", "quantity": 60, "price": 15 },
+  { "type": "Electronics", "quantity": 40, "price": 25 }
+]
